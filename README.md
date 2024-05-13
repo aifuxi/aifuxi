@@ -21,5 +21,3 @@
 </p>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aifuxi&count_private=true&theme=aura&hide=contribs&include_all_commits=true&line_height=24.0)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aifuxi&theme=aura&layout=compact&card_width=360)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=2647279733052494" alt="付小晨的掘金数据" style="zoom:100%;" align="left"/>
